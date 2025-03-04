@@ -3,7 +3,7 @@ The Custom Bar plugin allows you to display a fully customizable notification ba
 
 # Custom Bar – Customizable Header/Footer Notification Bar
 
-**Contributors:** mrb  
+**Contributors:** Bishal Rauniyar 
 **Tags:** notification bar, announcement bar, header bar, footer bar, site-wide message  
 **Requires at least:** 5.0  
 **Tested up to:** 6.4  
